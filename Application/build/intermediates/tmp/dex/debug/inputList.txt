@@ -1,0 +1,7 @@
+C:\Users\Andy\AndroidStudioProjects\DrawableTinting\Application\build\intermediates\classes\debug
+C:\Users\Andy\AndroidStudioProjects\DrawableTinting\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-5fe63578878221fba6785e6aeedbfacf3de4871d.jar
+C:\Users\Andy\AndroidStudioProjects\DrawableTinting\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-fbd05196773a2757da65c5485f2960406343a303.jar
+C:\Users\Andy\AndroidStudioProjects\DrawableTinting\Application\build\intermediates\pre-dexed\debug\classes-cf6b3333c96d124cbf2b73d28555ef71ace3c4ee.jar
+C:\Users\Andy\AndroidStudioProjects\DrawableTinting\Application\build\intermediates\pre-dexed\debug\classes-b38a8a63ba69dee8b57548a7f8b02adda8979bbd.jar
+C:\Users\Andy\AndroidStudioProjects\DrawableTinting\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-b682fe2d1389e1c3379ef575c95aaad66860480c.jar
+C:\Users\Andy\AndroidStudioProjects\DrawableTinting\Application\build\intermediates\pre-dexed\debug\classes-f7c122deeb04e6117cfa0c7b52a3fa755c0ca7e4.jar
