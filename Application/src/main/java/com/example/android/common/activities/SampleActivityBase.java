@@ -46,7 +46,7 @@ public class SampleActivityBase extends FragmentActivity {
         // Wraps Android's native log framework
         LogWrapper logWrapper = new LogWrapper();
         Log.setLogNode(logWrapper);
-
+        Log.i(TAG, "ReadyDDDDDDDDDDD");
         Log.i(TAG, "Ready");
     }
 }

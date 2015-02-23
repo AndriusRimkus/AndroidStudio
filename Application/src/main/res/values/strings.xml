@@ -14,8 +14,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 -->
-
 <resources>
+
     <string name="resource_tint_label">Button with tinting set by state color list as resource:</string>
     <string name="resource_tint_button">Tinting set by StateDrawable</string>
     <string name="prog_tint_label">View with tinting set programmatically:</string>
@@ -45,5 +45,9 @@ limitations under the License.
         <item>Source over (SRC_OVER)</item>
         <item>XOR</item>
     </string-array>
+
+    <string name="title_activity_nauja_klase">NaujaKlase</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
 
 </resources>
